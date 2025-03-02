@@ -1,12 +1,11 @@
 # 🌱 JARDINERIA_MySQL 🌱
 
-Este repositorio forma parte de un proyecto desarrollado con **MySQL**, utilizando **Visual Studio Code** como entorno de desarrollo. 💻📊⚙️
+Este repositorio forma parte de un proyecto desarrollado con **MySQL** 💻📊⚙️
 
 ## 🔧 Requisitos previos 🔧
 
 Antes de ejecutar el proyecto, asegúrese de contar con: ✅🛠️📌
 
-- **Visual Studio Code** → [Descargar VS Code](https://code.visualstudio.com/)
 - **MySQL** → [Descargar MySQL](https://www.mysql.com/downloads/)
 
 ## 📥 Instalación y ejecución 📥
